@@ -1,0 +1,19 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  img {
+    object-fit: cover;
+    border: 4px solid white;
+  }
+  
+  #titulo-sobre-mim {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  .card {
+    background-color: #000000; /* preto */
+    color: #ffffff; /* texto branco para contraste */
+  }
+  
+  
